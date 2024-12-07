@@ -16,6 +16,5 @@ MedRecord is a modern healthcare management application designed to streamline m
 - **Backend**: Node.js, Express.js 
 - **Database**: MongoDB 
 - **Authentication**: JWT-based secure authentication  
-- **Deployment**: Docker and Kubernetes  
 
  
